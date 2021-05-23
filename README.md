@@ -1,2 +1,2 @@
 # Notes-Keeper
-Created with CodeSandbox
+Created with CodeSandbox. It is a simple Notes keeping app created using React.
